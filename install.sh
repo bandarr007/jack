@@ -8,9 +8,7 @@ chmod +x BA
 ./BA
 }
 get() {
-rm -fr BoykA.lua
 rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/bandarr007/jack/jack/BoykA.lua"
 lua start.lua
 }
 installall(){
